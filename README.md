@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi There! Welcome to My GitHub
 
-<!--
-**MaxBleakley/MaxBleakley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- Cybersecurity student
+- Focused on networking, penetration testing, and home lab development  
+- Building hands-on skills through real-world setups and projects  
 
-Here are some ideas to get you started:
+## 🛠️ Current Lab Stack
+- Proxmox cluster running Ubuntu VMs  
+- Cisco, MikroTik and Ubiquiti
+- Dell, Lenovo, and HP ProLiant servers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects in Progress
+- Network monitoring with Zabbix and Grafana  
+- Self-hosted VPN, DNS, and security tools  
+- Automated lab deployment
+
+## 🔧 Tools & Technologies
+- Docker, Linux, WireGuard  
+- Wireshark, Nmap, Burp Suite, Flipper Zero  
+- Git, Bash, Python  
+
+## 🎯 Goals
+- Get certified: CompTIA Network+, Security+, Cisco CCNA  
+- Break into a networking role  
+- Master key Networking Principles 
+
+## 🎮 Interests
+- Star Wars, philosophy, gaming  
+- Open-source tools and self-hosting  
+- Discussing tech, media, and future systems  
