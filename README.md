@@ -1,9 +1,14 @@
 # 👋 Hi There! Welcome to My GitHub
 
-## 🧠 About Me                                                                              ## 🛠️ Current Lab Stack
-- Cybersecurity student                                                                     - Proxmox cluster running Ubuntu VMs  
-- Focused on networking, penetration testing, and home lab development                      - Cisco, MikroTik and Ubiquiti
-- Building hands-on skills through real-world setups and projects                           - Dell, Lenovo, and HP ProLiant servers  
+## 🧠 About Me
+- Cybersecurity student
+- Focused on networking, penetration testing, and home lab development  
+- Building hands-on skills through real-world setups and projects  
+
+## 🛠️ Current Lab Stack
+- Proxmox cluster running Ubuntu VMs  
+- Cisco, MikroTik and Ubiquiti
+- Dell, Lenovo, and HP ProLiant servers  
 
 ## 🧪 Projects in Progress
 - Network monitoring with Zabbix and Grafana  
