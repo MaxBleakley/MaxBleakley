@@ -6,7 +6,7 @@
 - Building hands-on skills through real-world setups and projects  
 
 ## 🧪 Projects in Progress
-- Network monitoring with Zabbix and Grafana  
+- Network monitoring
 - Self-hosted VPN, DNS, and security tools  
 - Automated lab deployment
 
