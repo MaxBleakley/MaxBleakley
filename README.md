@@ -8,7 +8,7 @@
 ## 🧪 Projects in Progress
 - Network monitoring
 - Self-hosted VPN, DNS, and security tools  
-- Automated lab deployment
+- Honeypot deployment and traffic analysis in controlled enviorments
 
 ## 🔧 Tools & Technologies
 - Docker, Linux, WireGuard  
